@@ -1,0 +1,17 @@
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\SharpGM\SharpGM\bin\Debug\Icons\execute.png
+C:\Users\Owner\Desktop\SharpGM\SharpGM\bin\Debug\SharpGm.exe.config
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Properties.Resources.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Dialogues.AboutBox.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Dialogues.HelpViewer.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Editors.FontEditor.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Editors.PathEditor.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Editors.ScriptEditor.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Editors.SoundEditor.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.Editors.TimelineEditor.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.MainWindow.resources
+C:\Users\Owner\Desktop\SharpGM\SharpGM\bin\Debug\SharpGM.exe
+C:\Users\Owner\Desktop\SharpGM\SharpGM\bin\Debug\SharpGM.pdb
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.exe
+C:\Users\Owner\Desktop\SharpGM\SharpGM\obj\x86\Debug\SharpGM.pdb
